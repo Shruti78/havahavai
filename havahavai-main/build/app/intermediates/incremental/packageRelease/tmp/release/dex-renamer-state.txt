@@ -1,0 +1,4 @@
+#Sun Mar 10 17:54:53 IST 2024
+base.0=/home/shruti/Downloads/havahavai/havahavai-main/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
